@@ -117,7 +117,7 @@ a:hover{
 .sug{
     margin: 40px auto 60px;
 }
-@media (max-width: 600px) {
+@media (max-width: 900px) {
     .mountain{
         width: 100%;
     }
