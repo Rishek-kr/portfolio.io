@@ -81,12 +81,12 @@ p{
 }
 .cloud1{
     position: absolute;
-    right: 300px;
+    right: 20%;
     top: 50px;
 }
 .cloud2{
     position: absolute;
-    left: 300px;
+    left: 20%;
 }
 a{
     color: #11999E;
