@@ -122,6 +122,9 @@ a:hover{
         width: 100%;
     }
     .cloud2{
-        left: 50px;
+        left: 0%;
+    }
+    .cloud1{
+        right: 0%;
     }
 }
